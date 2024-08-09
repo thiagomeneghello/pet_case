@@ -1,8 +1,6 @@
-Thiago Frizzo Meneghello
-https://www.linkedin.com/in/thiago-frizzo-meneghello-aa81a7190/ 
-https://thiagomeneghello.github.io/portfolio_projetos/
-Agosto 2024.
+
 PETZ Case Técnico – Analista Dados PL
+
 1) Problema de Negócio
 O Grupo Petz é um ecossistema em crescimento que atende o mercado pet (relação tutor-pet). A atuação conta com lojas físicas para comercialização de produtos e prestação de variados serviços para pets, loja tipo e-commerce, além de possuir diversas marcas reconhecidas. 
 Para sustentar o plano de crescimento da empresa, o setor de marketing e negócios procurou o time de Dados para entendimento da base de clientes e assim elaborar estratégias para fortalecer a relação e gerar mais receita: 
