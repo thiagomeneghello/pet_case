@@ -93,21 +93,27 @@ o	Cluster de Frequência: Quantidade total de vendas, Frequência e Recência Ú
 8. Análise dos Clusters:
 
 * Cluster de Valor:
+
 ![clusterização_valor](img/monetary_cluster.PNG)
 
 Eixo X = Quantidade de Vendas / Eixo Y = Ticket Médio / Eixo Z = Valor total gasto
+
 Alto valor = vermelho / Médio Valor = amarelo / Baixo valor = azul
 
 Profile:
+
 ![profile_valor](img/cluster_monetary.PNG)
  
 * Cluster de Frequência:
+
 ![clusterização_freq](img/frequency_cluster2.PNG)
 
 Eixo X = Quantidade de Vendas / Eixo Y = Frequência vendas / Eixo Z = Recência última venda
+
 Alta frequência = azul / Média frequência = vermelho / Baixa frequência = amarelo
 
 Profile:
+
 ![profile_valor](img/cluster_freq.PNG)
 
 9. Previsão de Vendas de Ração:
@@ -142,14 +148,14 @@ Profile:
 
 # 5) Produto do Projeto
 
-*	Tabela de Clusterização: cliente e o cluster de valor e de frequência. Descritivo do perfil dos clusters.  
+*	Tabela de Clusterização: cliente e o cluster de valor e de frequência. Descritivo do perfil dos clusters.  (aba1, case_tabelas.xlsx)
 
-*	Tabela de Previsão de Venda de Ração: cliente, data última compra e data de previsão de compra.
+*	Tabela de Previsão de Venda de Ração: cliente, data última compra e data de previsão de compra.  (aba2, case_tabelas.xlsx)
 
 # 6) Conclusão
-O objetivo foi criar um primeiro cenário de gerenciamento da base de clientes e vendas de produtos. A primeira clusterização pode servir como baseline de comparação futura à medida que o modelo, qualidade dos dados, desenvolvimento de features se desenvolva. 
+O objetivo foi criar um primeiro cenário de gerenciamento da base de clientes e vendas de produtos. A primeira clusterização pode servir como baseline de comparação futura à medida que o modelo, qualidade dos dados, desenvolvimento de features se desenvolva.
 
-A clusterização é sempre um meio para apontar direções, extrair insights e auxiliar a tomada de decisão para desenvolvimento e impulsionamento de novos projetos de gerenciamento de clientes.
+A clusterização é sempre um meio para apontar direções, extrair insights e auxiliar a tomada de decisão para desenvolvimento e impulsionamento de novos projetos de gerenciamento de clientes. 
 
 # 7) Próximos Passos
 
