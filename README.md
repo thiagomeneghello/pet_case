@@ -93,28 +93,33 @@ o	Cluster de Frequência: Quantidade total de vendas, Frequência e Recência Ú
 8. Análise dos Clusters:
 
 * Cluster de Valor:
-![clusterização_valor](monetary_cluster.PNG)
+![clusterização_valor](img/monetary_cluster.PNG)
 
 Eixo X = Quantidade de Vendas / Eixo Y = Ticket Médio / Eixo Z = Valor total gasto
 Alto valor = vermelho / Médio Valor = amarelo / Baixo valor = azul
 
 Profile:
-![profile_valor](cluster_monetary.PNG)
+![profile_valor](img/cluster_monetary.PNG)
  
 * Cluster de Frequência:
-![clusterização_freq](frequency_cluster2.PNG)
+![clusterização_freq](img/frequency_cluster2.PNG)
 
 Eixo X = Quantidade de Vendas / Eixo Y = Frequência vendas / Eixo Z = Recência última venda
 Alta frequência = azul / Média frequência = vermelho / Baixa frequência = amarelo
 
 Profile:
-![profile_valor](cluster_freq.PNG)
+![profile_valor](img/cluster_freq.PNG)
 
 9. Previsão de Vendas de Ração:
 
 * Filtragem de vendas para categoria de Ração, organizadas por cliente e em ordem crescente de data.
 
 * Foi verificado o comportamento das vendas de ração por dia de semana, semana do ano e por mês.
+ ![vendas_dia_semana](img/semana.PNG)
+
+![vendas_semana](img/yw.PNG)
+
+![vendas_mes](img/mes.PNG)
 
 *	Calculado o intervalo entre a data de venda mais antiga e a próxima venda, seguindo para todos os registros. A primeira data de venda recebeu valor 0.
 
